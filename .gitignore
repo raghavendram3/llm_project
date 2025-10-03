@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# macOS
+.DS_Store
+
+# Packaging/artifacts
+build/
+dist/
+*.egg-info/
+
+# Editors/IDEs
+.vscode/
+.idea/
+
+# Env files
+.env
+.env.*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Tests/coverage
+.pytest_cache/
+.coverage
+
+# Project outputs
+slabs_out/

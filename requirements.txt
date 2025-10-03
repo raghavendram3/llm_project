@@ -1,0 +1,5 @@
+mp-api>=0.44
+pymatgen>=2023.8.10
+ase>=3.23.0
+numpy>=1.24
+python-dotenv>=1.0.1
